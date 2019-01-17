@@ -4,6 +4,3 @@ node_modules
 *.zip
 .cache
 .vscode
-/public
-/server
-/data
